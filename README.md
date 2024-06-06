@@ -4,7 +4,7 @@ Hi 👋 My name is Ivan Xiquez
 Front End Developer
 -------------------
 
-I've been learning code for 3 years, I am passionate about solving problems, always learning new tools that help me grow as a professional
+I've been learning code for +4 years, I am passionate about solving problems, always learning new tools that help me grow as a professional
 
 * 🌍  I'm based in Colombia
 * ✉️  You can contact me at [ivan.xiquezm29@gmail.com](mailto:ivan.xiquezm29@gmail.com)
